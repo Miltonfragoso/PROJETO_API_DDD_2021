@@ -15,13 +15,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infraestrutura", "4 - I
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Entidades", "5 - Entidades", "{5DE4EAE6-9E41-4B70-B096-701AA9F948B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestrutura", "Infraestrutura\Infraestrutura.csproj", "{76B18B04-E9BB-4BCB-AE88-09AFC720C2C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infraestrutura", "Infraestrutura\Infraestrutura.csproj", "{76B18B04-E9BB-4BCB-AE88-09AFC720C2C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{7C7E7E1D-3CCF-4588-8D43-F449EFFFEDE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dominio", "Dominio\Dominio.csproj", "{7C7E7E1D-3CCF-4588-8D43-F449EFFFEDE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacao", "Aplicacao\Aplicacao.csproj", "{042D2CA2-3788-4E40-B44C-2F6939D1829B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplicacao", "Aplicacao\Aplicacao.csproj", "{042D2CA2-3788-4E40-B44C-2F6939D1829B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{34CD8FA9-FEE2-47DF-B38F-827663343B0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{34CD8FA9-FEE2-47DF-B38F-827663343B0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
